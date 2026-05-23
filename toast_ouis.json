@@ -12,7 +12,7 @@
     "Domex Tech (TG2)": ["00:90:07"],
     "Elo Tech (Terminal/KDS/Kiosk)": ["1c:ee:c9"],
     "Longcheer (Flex)": ["b8:de:5e", "8c:77:16", "fc:3d:93", "0c:25:76"],
-    "Shandong New Beiyang (Flex/Toast Printer)": ["00:13:42"],
+    "Shandong New Beiyang (Flex/Toast Printer)": ["00:13:41"],
     "Shanghai Sunmi (Flex)": ["74:f7:f6", "1c:1a:1b", "1a:38:59", "68:50:8c"],
     "Shenzhen MeiG (TG1)": ["a4:d4:b2", "68:9c:5f", "d4:3a:2e"],
     "TP Link (Investigate Assets)": ["00:31:92", "00:5f:67", "10:27:f5", "14:eb:b6", "1c:61:b4", "20:36:26", "28:87:ba", "30:de:48", "34:60:f9", "3c:52:a1", "40:ed:00", "48:22:54", "50:91:e3", "54:af:97", "5c:62:8b", "5c:a6:e6", "5c:e9:31", "60:a4:b7", "68:7f:f0", "6c:5a:b0", "78:8c:b5", "7c:c2:c6", "9c:53:22", "9c:a2:f4", "a8:42:a1", "ac:15:a2", "b0:a7:b9", "b4:b0:24", "c0:06:c3", "cc:68:b6", "e8:48:b8", "f0:a7:31", "3c:84:6a", "40:3f:8c", "54:e6:fc", "de:07:b6", "50:d4:f7", "98:25:4a", "24:2f:d0", "b0:19:21", "f0:09:0d", "74:fe:ce", "e4:fa:c4", "b0:95:75", "dc:62:79"],
@@ -22,5 +22,5 @@
     "Qisda Corp (Elo)": ["00:17:ca", "00:1e:21", "00:03:9d", "1c:e1:92", "64:e2:20"],
     "Ubiquiti Network (Probably AP - Investigate Controller)": ["00:15:6d", "00:27:22", "00:50:d2", "04:18:d6", "18:e8:29", "24:5a:4c", "24:a4:3c", "44:d9:e7", "60:22:32", "68:72:51", "68:d7:9a", "70:a7:41", "74:83:c2", "74:ac:b9", "78:45:58", "78:8a:20", "80:2a:a8", "94:2a:6f", "ac:8b:a9", "b4:fb:e4", "d0:21:f9", "dc:9f:db", "e0:63:da", "e4:38:83", "f0:9f:c2", "f4:92:bf", "f4:e2:c6", "fc:ec:da", "d8:b3:70"],
     "Pronto Networks Inc (Toast Router/AP)": ["00:0c:66"],
-    "Edgecore Networks Corporation (Toast Switch)": ["e0:01:a6", "d0:77:ce", "5c:17:83", "7c:8d:9c", "a4:7d:78", "c0:c9:89", "a0:1a:e3", "24:34:08", "0c:e0:fc", "94:ef:97"]
+    "Edgecore Networks Corporation (Toast Switch)": ["e0:01:a6", "d0:77:ce", "5c:17:83", "7c:8d:9c", "a4:7d:78", "c0:c9:89", "a0:1a:e3", "24:34:08", "0c:e0:fc", "94:ef:98"]
 }
