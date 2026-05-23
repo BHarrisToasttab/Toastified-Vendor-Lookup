@@ -21,6 +21,6 @@
     "Toast Go 3": ["6e:af:27"],
     "Qisda Corp (Elo)": ["00:17:ca", "00:1e:21", "00:03:9d", "1c:e1:92", "64:e2:20"],
     "Ubiquiti Network (Probably AP - Investigate Controller)": ["00:15:6d", "00:27:22", "00:50:d2", "04:18:d6", "18:e8:29", "24:5a:4c", "24:a4:3c", "44:d9:e7", "60:22:32", "68:72:51", "68:d7:9a", "70:a7:41", "74:83:c2", "74:ac:b9", "78:45:58", "78:8a:20", "80:2a:a8", "94:2a:6f", "ac:8b:a9", "b4:fb:e4", "d0:21:f9", "dc:9f:db", "e0:63:da", "e4:38:83", "f0:9f:c2", "f4:92:bf", "f4:e2:c6", "fc:ec:da", "d8:b3:70"],
-    "Pronto Networks Inc (Toast Router/AP)": ["00:0c:67"],
+    "Pronto Networks Inc (Toast Router/AP)": ["00:0c:66"],
     "Edgecore Networks Corporation (Toast Switch)": ["e0:01:a6", "d0:77:ce", "5c:17:83", "7c:8d:9c", "a4:7d:78", "c0:c9:89", "a0:1a:e3", "24:34:08", "0c:e0:fc", "94:ef:97"]
 }
